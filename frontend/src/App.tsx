@@ -1,12 +1,12 @@
-
+import { Fragment } from 'react';
 import './App.css';
-import Header from './Header'
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <Header title='Hello world' color='red'/>
-    </div>
+    <Fragment>
+      <h1>Hello from TSX</h1>
+    </Fragment>
   );
 }
 
