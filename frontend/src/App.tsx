@@ -1,11 +1,17 @@
-import { Fragment } from 'react';
-import './App.css';
+import React, { Fragment } from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
+
 
 
 const App = () => {
   return (
     <Fragment>
-      <h1>Hello from TSX</h1>
+      <Header />
+      <main>
+        <h1>Welcome to Team MARCT</h1>
+      </main>
+      <Footer />
     </Fragment>
   );
 }
