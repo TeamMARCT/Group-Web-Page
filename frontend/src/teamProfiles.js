@@ -30,3 +30,5 @@ const profiles = [
     description: 'Software Engineer at Team MARCT'
   }
 ];
+
+export default profiles;
