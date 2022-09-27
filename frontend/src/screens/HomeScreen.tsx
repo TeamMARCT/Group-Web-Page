@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react'
 import { Row, Col, Container } from 'react-bootstrap'
 import profiles from '../teamProfiles'
+import Profile from '../components/Profile'
 
 const HomeScreen = () => {
   interface ProfileInterface {
@@ -17,8 +18,8 @@ const HomeScreen = () => {
         <Row>
           {/* Looping through our profiles and creating a list/array */}
           {profiles.map((profile) => (
-            <Col sm={12} md={6} lg={4} xl={3}> 
-              <h3>{profile.name}</h3>
+            <Col sm={12} md={6} lg={4} xl={4}> 
+              <Profile profile={profile} />
             </Col>
           ))}
         </Row>
