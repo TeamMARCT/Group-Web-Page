@@ -30,18 +30,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/cmlooff/Federal-Regulation-Project">
+  <a href="https://github.com/TeamMARCT/Group-Web-Page">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Christian Looff Project: The Petitionist</h3>
+  <h3 align="center">Team MARCT Project: ?????????</h3>
 
   <p align="center">
     Giving easy access for the public to interact with the Regulation Process!
     <br />
-    <a href="https://github.com/cmlooff/Federal-Regulation-Project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TeamMARCT/Group-Web-Page"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/users/cmlooff/projects/1"><strong>Explore the Project Board »</strong></a>
+    <a href="https://trello.com/b/OkAyRSIC/osp"><strong>Explore the Project Board »</strong></a>
     <br />
     <br />
     <a href="https://github.com/cmlooff/Federal-Regulation-Project">View Demo</a>
@@ -270,7 +270,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/christian-looff/
 
-[product-screenshot]: images/screeenshot.PNG
+[product-screenshot]: images/screenshot.PNG
 
 <!-- Library oof badges -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
