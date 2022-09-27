@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/TeamMARCT/Group-Web-Page/blob/main/images/screenshot.PNG?raw=true)
 
 Federal agencies shape the regulatory process, affecting countless aspects of our everyday lives. One of the most important parts of the rulemaking process is the ability of the public to participate. At times, federal agencies fail to develop regulations. A petition for rulemaking is the mechanism by which individuals, public interest groups, and private enterprise can argue in favor of changes or new rules for ensuring the general welfare of the nation
 
@@ -192,7 +192,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish -->
 
-See the [open issues](https://github.com/cmlooff/Federal-Regulation-Project/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TeamMARCT/Group-Web-Page/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,8 +229,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Christian Looff - [@cmlooff](https://github.com/cmlooff)
+<br/>
+Abigail Gerig - [@4estgirl](https://github.com/4estgirl)
+<br/>
 
-Project Link: [https://github.com/cmlooff/Federal-Regulation-Project](https://github.com/cmlooff/Federal-Regulation-Project)
+Project Link: [https://github.com/TeamMARCT/Group-Web-Page](https://github.com/TeamMARCT/Group-Web-Page)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
