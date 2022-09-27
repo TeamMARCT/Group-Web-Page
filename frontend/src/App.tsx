@@ -1,6 +1,8 @@
 import React, { Fragment } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
+// react bootstrap
+import { Container } from 'react-bootstrap';
 
 
 
@@ -9,7 +11,10 @@ const App = () => {
     <Fragment>
       <Header />
       <main>
-        <h1>Welcome to Team MARCT</h1>
+        {/* Wrapping the main body/tag in a container to push content to the middle */}
+        <Container>
+          <h1>Welcome to Team MARCT</h1>
+        </Container>
       </main>
       <Footer />
     </Fragment>
