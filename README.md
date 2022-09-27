@@ -44,11 +44,11 @@
     <a href="https://trello.com/b/OkAyRSIC/osp"><strong>Explore the Project Board »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cmlooff/Federal-Regulation-Project">View Demo</a>
+    <a href="https://github.com/TeamMARCT/Group-Web-Page">View Demo</a>
     ·
-    <a href="https://github.com/cmlooff/Federal-Regulation-Project/issues">Report Bug</a>
+    <a href="https://github.com/TeamMARCT/Group-Web-Page/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cmlooff/Federal-Regulation-Project/issues">Request Feature</a>
+    <a href="https://github.com/TeamMARCT/Group-Web-Page/issues">Request Feature</a>
   </p>
 </div>
 
