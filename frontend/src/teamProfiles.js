@@ -2,7 +2,7 @@ const profiles = [
   {
     _id: '1',
     name: 'Christian Looff',
-    image: '/profile-images/Chris.jpg',
+    image: '/profile-images/Chris2.jpg',
     description: 'Software Engineer at Team MARCT'
   },
   {
