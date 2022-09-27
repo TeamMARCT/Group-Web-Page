@@ -1,0 +1,14 @@
+
+main {
+  /* Push footer down the page */
+  min-height: 90vh
+}
+body {
+  background: url('./images/dino-bg.png') no-repeat center center/cover;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 2rem;
+}
