@@ -259,16 +259,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[contributors-url]: https://github.com/cmlooff/Federal-Regulation-Project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[forks-url]: https://github.com/cmlooff/Federal-Regulation-Project/network/members
-[stars-shield]: https://img.shields.io/github/stars/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[stars-url]: https://github.com/cmlooff/Federal-Regulation-Project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[issues-url]: https://github.com/cmlooff/Federal-Regulation-Project/issues
-[license-shield]: https://img.shields.io/github/license/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[license-url]: https://github.com/cmlooff/Federal-Regulation-Project/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[contributors-url]: https://github.com/TeamMARCT/Group-Web-Page/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[forks-url]: https://github.com/TeamMARCT/Group-Web-Page/network/members
+[stars-shield]: https://img.shields.io/github/stars/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[stars-url]: https://github.com/TeamMARCT/Group-Web-Page/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[issues-url]: https://github.com/TeamMARCT/Group-Web-Page/issues
+[license-shield]: https://img.shields.io/github/license/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[license-url]: https://github.com/TeamMARCT/Group-Web-Page/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/christian-looff/
