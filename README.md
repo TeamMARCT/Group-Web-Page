@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/TeamMARCT/Group-Web-Page/blob/main/images/screenshot.PNG?raw=true)
 
 Federal agencies shape the regulatory process, affecting countless aspects of our everyday lives. One of the most important parts of the rulemaking process is the ability of the public to participate. At times, federal agencies fail to develop regulations. A petition for rulemaking is the mechanism by which individuals, public interest groups, and private enterprise can argue in favor of changes or new rules for ensuring the general welfare of the nation
 
@@ -192,7 +192,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish -->
 
-See the [open issues](https://github.com/cmlooff/Federal-Regulation-Project/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TeamMARCT/Group-Web-Page/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,8 +229,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Christian Looff - [@cmlooff](https://github.com/cmlooff)
+<br/>
+Abigail Gerig - [@4estgirl](https://github.com/4estgirl)
+<br/>
 
-Project Link: [https://github.com/cmlooff/Federal-Regulation-Project](https://github.com/cmlooff/Federal-Regulation-Project)
+Project Link: [https://github.com/TeamMARCT/Group-Web-Page](https://github.com/TeamMARCT/Group-Web-Page)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,16 +259,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[contributors-url]: https://github.com/cmlooff/Federal-Regulation-Project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[forks-url]: https://github.com/cmlooff/Federal-Regulation-Project/network/members
-[stars-shield]: https://img.shields.io/github/stars/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[stars-url]: https://github.com/cmlooff/Federal-Regulation-Project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[issues-url]: https://github.com/cmlooff/Federal-Regulation-Project/issues
-[license-shield]: https://img.shields.io/github/license/cmlooff/Federal-Regulation-Project.svg?style=for-the-badge
-[license-url]: https://github.com/cmlooff/Federal-Regulation-Project/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[contributors-url]: https://github.com/TeamMARCT/Group-Web-Page/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[forks-url]: https://github.com/TeamMARCT/Group-Web-Page/network/members
+[stars-shield]: https://img.shields.io/github/stars/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[stars-url]: https://github.com/TeamMARCT/Group-Web-Page/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[issues-url]: https://github.com/TeamMARCT/Group-Web-Page/issues
+[license-shield]: https://img.shields.io/github/license/TeamMARCT/Group-Web-Page.svg?style=for-the-badge
+[license-url]: https://github.com/TeamMARCT/Group-Web-Page/blob/main/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/christian-looff/
